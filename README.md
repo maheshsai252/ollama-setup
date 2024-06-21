@@ -100,7 +100,10 @@ http://localhost:11434/api/chat
 }
 ```
 ## Video Turtorial
-For a visual guide on setting up and using the Ollama app with llama3 and phi3 models, check out our [![Watch the video](https://youtu.be/wbYChQ3UUjU?si=s12_UBhL7Rtz6dOW)
+For a visual guide on setting up and using the Ollama app with llama3 and phi3 models, check out our 
+
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=wbYChQ3UUjU)
+
 
 
 ## Troubleshooting
