@@ -18,8 +18,7 @@ This repository contains instructions for setting up and using local large langu
    - [Using curl](#using-curl)
    - [Using Postman](#using-postman)
 4. [Troubleshooting](#troubleshooting)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [License](#license)
 
 ## Introduction
 
