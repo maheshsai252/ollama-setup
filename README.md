@@ -31,10 +31,10 @@ This guide will walk you through the process of setting up and using two large l
 
 Before you begin, make sure you have the following:
 
-•	A macOS device
-•	Basic knowledge of terminal commands
-•	curl installed (usually pre-installed on macOS)
-•	Postman installed (optional, for API testing)
+1.	A macOS device
+2.	Basic knowledge of terminal commands
+3.	curl installed (usually pre-installed on macOS)
+4.	Postman installed (optional, for API testing)
 
 
 ### Installing Ollama App
@@ -107,12 +107,11 @@ For a visual guide on setting up and using the Ollama app with llama3 and phi3 m
 
 
 ## Troubleshooting
-
 If you encounter issues:
 
-   •	Ensure the Ollama app is running and the models are started.
-   •	Verify that your curl or Postman request is correctly formatted.
-   •	Check your network settings to ensure no conflicts with port 11434.
+1. Ensure the Ollama app is running and the models are started.
+2.	Verify that your curl or Postman request is correctly formatted.
+3. Check your network settings to ensure no conflicts with port 11434.
 
 
 ## License
