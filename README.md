@@ -38,22 +38,22 @@ Before you begin, make sure you have the following:
 
 ### Installing Ollama App
 
-	1.	Download the Ollama app: You can download the Ollama app for macOS from the official website.
-	2.	Install the app: Follow the on-screen instructions to install the Ollama app on your macOS device.
+1.	Download the Ollama app: You can download the Ollama app for macOS from the official website.
+2.	Install the app: Follow the on-screen instructions to install the Ollama app on your macOS device.
 
 
 ### Running Models
 
 To run the models llama3 and phi3, use the following commands in your terminal:
 
-	1.	Open your terminal.
-	2.	Run the llama3 model:
+1.	Open your terminal.
+2.	Run the llama3 model:
 
 ```
 ollama run llama3
 ```
 
-	3.	Run the phi3 model:
+3.	Run the phi3 model:
 
 ```
 ollama run phi3
@@ -67,8 +67,8 @@ You can test the models using curl commands or by setting up API requests in Pos
 
 Using curl
 
-	1.	Open your terminal.
-	2.	Use the following curl command to test the llama3 model:
+1.	Open your terminal.
+2.	Use the following curl command to test the llama3 model:
 
 ```
 curl http://localhost:11434/api/chat -d '{
