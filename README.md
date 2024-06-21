@@ -85,7 +85,9 @@ curl http://localhost:11434/api/chat -d '{
 	2.	Create a new POST request.
 	3.	Set the URL to:
 
- ```http://localhost:11434/api/chat```
+```
+http://localhost:11434/api/chat
+ ```
  	4.	In the body of the request, select raw and set the type to JSON. Enter the following JSON:
   
 ```
