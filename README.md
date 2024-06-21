@@ -30,10 +30,10 @@ This guide will walk you through the process of setting up and using two large l
 
 Before you begin, make sure you have the following:
 
-	•	A macOS device
-	•	Basic knowledge of terminal commands
-	•	curl installed (usually pre-installed on macOS)
-	•	Postman installed (optional, for API testing)
+•	A macOS device
+•	Basic knowledge of terminal commands
+•	curl installed (usually pre-installed on macOS)
+•	Postman installed (optional, for API testing)
 
 
 ### Installing Ollama App
