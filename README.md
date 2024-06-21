@@ -111,8 +111,8 @@ For a visual guide on setting up and using the Ollama app with llama3 and phi3 m
 If you encounter issues:
 
 •	Ensure the Ollama app is running and the models are started.
-•	Verify that your curl or Postman request is correctly formatted.
-•	Check your network settings to ensure no conflicts with port 11434.
+\n•	Verify that your curl or Postman request is correctly formatted.
+\n•	Check your network settings to ensure no conflicts with port 11434.
 
 
 ## License
