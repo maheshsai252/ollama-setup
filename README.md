@@ -2,31 +2,32 @@
 
 Sure, I’ll help you create a well-structured README file for your GitHub repository. Here’s a template you can use:
 
-LLM Setup and Usage Guide
+## LLM Setup and Usage Guide
 
 This repository contains instructions for setting up and using local large language models (LLMs) with the Ollama app on macOS. You will learn how to install the necessary software, run the models, and test them using curl commands or Postman.
 
-Table of Contents
 
-	1.	Introduction
-	2.	Setup Instructions
-	•	Prerequisites
-	•	Installing Ollama App
-	•	Running Models
-	3.	Testing the Models
-	•	Using curl
-	•	Using Postman
-	4.	Troubleshooting
-	5.	Contributing
-	6.	License
+## Table of Contents
 
-Introduction
+1. [Introduction](#introduction)
+2. [Setup Instructions](#setup-instructions)
+   - [Prerequisites](#prerequisites)
+   - [Installing Ollama App](#installing-ollama-app)
+   - [Running Models](#running-models)
+3. [Testing the Models](#testing-the-models)
+   - [Using curl](#using-curl)
+   - [Using Postman](#using-postman)
+4. [Troubleshooting](#troubleshooting)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+## Introduction
 
 This guide will walk you through the process of setting up and using two large language models, llama3 and phi3, using the Ollama app on macOS. You will learn how to run these models locally and test them with simple API requests.
 
-Setup Instructions
+## Setup Instructions
 
-Prerequisites
+### Prerequisites
 
 Before you begin, make sure you have the following:
 
@@ -35,12 +36,14 @@ Before you begin, make sure you have the following:
 	•	curl installed (usually pre-installed on macOS)
 	•	Postman installed (optional, for API testing)
 
-Installing Ollama App
+
+### Installing Ollama App
 
 	1.	Download the Ollama app: You can download the Ollama app for macOS from the official website.
 	2.	Install the app: Follow the on-screen instructions to install the Ollama app on your macOS device.
 
-Running Models
+
+### Running Models
 
 To run the models llama3 and phi3, use the following commands in your terminal:
 
@@ -58,7 +61,8 @@ ollama run phi3
 ```
 Both models should now be running locally on your machine.
 
-Testing the Models
+
+## Testing the Models
 
 You can test the models using curl commands or by setting up API requests in Postman.
 
@@ -75,7 +79,8 @@ curl http://localhost:11434/api/chat -d '{
   ]
 }'
 ```
-Using Postman
+
+### Using Postman
 
 	1.	Open Postman.
 	2.	Create a new POST request.
@@ -92,7 +97,8 @@ Using Postman
   ]
 }
 ```
-Troubleshooting
+
+## Troubleshooting
 
 If you encounter issues:
 
@@ -100,7 +106,8 @@ If you encounter issues:
 	•	Verify that your curl or Postman request is correctly formatted.
 	•	Check your network settings to ensure no conflicts with port 11434.
 
- License
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
